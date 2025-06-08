@@ -1,0 +1,2 @@
+﻿Nesneye yönelik progrmlama dersi projesi 
+Satranç-sudoku-kelime oyunu yapma 
